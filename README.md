@@ -1,4 +1,4 @@
-# Neural-Style-Transfer
+# Neural-Style-Transfer-PyTorch
 
 PyTorch implementation from scratch of the original neural style transfer paper (https://arxiv.org/abs/1508.06576). The model was trained with a pretrained VGG19 CNN architecture using the Adam optimizer. A faster convergence was obtained using a second order L-BFGS optimizer. The faster convergence for L-BFGS can attritbuted to it's accounting of secon order information. Hessian approximations are built using a user-specified lookback memeory and gradient steps are taken.
 
