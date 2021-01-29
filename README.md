@@ -6,4 +6,8 @@ The original papers on Adam optimizer and L-BFGS algorithm are https://arxiv.org
 
 Some of the images from the implementation are as below:
 
+![download (1)](https://user-images.githubusercontent.com/71509604/106324382-09b52a80-6247-11eb-9530-e2602769ca10.png)
+
+![download (2)](https://user-images.githubusercontent.com/71509604/106324410-16d21980-6247-11eb-9b4c-e273bd683a2a.png)
+
 
